@@ -1,7 +1,7 @@
 import pandas as pd
 import pickle
 
-date_cut_off = 86
+date_cut_off = 400
 
 def main():
 
